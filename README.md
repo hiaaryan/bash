@@ -5,6 +5,6 @@
 Git\etc\profile.d
 ```
 
-![alt text](https://github.com/[myselfaaryan]/[bash]/blob/[main]/src/img/screenshot.png?raw=true)
+![alt text](https://raw.githubusercontent.com/myselfaaryan/bash/main/src/img/screenshot.png?raw=true)
 
 You're good to go! Your git bash can now be confirgured with Hyper™.
