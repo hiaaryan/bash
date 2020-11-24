@@ -1,4 +1,4 @@
-# bash
+# ⚡ bash
 💻 I use the profile with Hyper™ on Windows development environments. Replace it with the git default profile:
 
 ```bash
